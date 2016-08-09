@@ -60,7 +60,7 @@
  		msg.data[2] = station_p.z - current_p.z;
  		
  		pub.publish(msg);
- 		ros::spin();
+ 		ros::spinOnce();
 
  		i++;
  	}
