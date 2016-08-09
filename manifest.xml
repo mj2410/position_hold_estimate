@@ -1,0 +1,17 @@
+<package>
+  <description brief="steady1">
+
+     steady1
+
+  </description>
+  <author>hojat</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/steady1</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
+
+
